@@ -1,14 +1,11 @@
-# lab-02
-CMPUT301 Lab 2
+# CMPUT 301: Lab 2 Participation Exercise
 
-Student Details
+## Student Details
+- **Full Name:** `Sorachat Chaichana`
+- **CCID:** `sorachat`
 
-Full Name: Sorachat Chaichana 
-CCID: sorachat
-
-References and Resources 
+## References and Resources
 N/A
 
-
-Verbal Collaboration 
+## Verbal Collaboration
 N/A
