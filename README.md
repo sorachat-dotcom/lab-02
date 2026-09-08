@@ -3,12 +3,12 @@ CMPUT301 Lab 2
 
 Student Details
 
-Full Name: Sorachat Chaichana
+Full Name: Sorachat Chaichana \n
 CCID: sorachat
 
-References and Resources
+References and Resources \n
 N/A
 
 
-Verbal Collaboration
+Verbal Collaboration \n
 N/A
