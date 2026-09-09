@@ -8,4 +8,4 @@
 N/A
 
 ## Verbal Collaboration
-N/A
+Luke Salonka: Discussing methods to make the cities in the list "selectable"
